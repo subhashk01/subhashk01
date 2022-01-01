@@ -6,7 +6,7 @@ My name is Subhash! I'm an undergraduate at MIT studying Physics and Computer Sc
 Outside of my academics I love meeting interesting people, reading memoirs, teaching and mentoring, playing basketball and ultimate frisbee, traveling to foreign countries, and exploring nature.
 
 ### Quick Links
-- [Personal Website](subhashk.com)
+- [Personal Website](https://www.subhashk.com)
 - [Resume](https://www.subhashk.com/resume/Kantamneni_Subhash_Resume.pdf) 
 - [LinkedIn](https://www.linkedin.com/in/sckant/)
 - [Email: subhashk@mit.edu](mailto:subhashk@mit.edu)  
